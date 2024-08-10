@@ -1,0 +1,15 @@
+{
+  "name": "goodreads_quotes-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Scraper_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "puppeteer": "^23.0.2"
+  }
+}
