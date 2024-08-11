@@ -17,6 +17,12 @@ This scraper is straightforward and specifically designed to extract quotes from
 
 ## Installation
 
+## Features
+
+- Scrapes quotes and image sources from Goodreads quotes pages.
+- Navigates through multiple pages of quotes.
+- Saves the collected data into a CSV file.
+
 ## Prerequisites
 
 - Node.js (>=14.0.0)
